@@ -1,0 +1,8 @@
+* 讓GUI/commandLine這兩種都能同時compile
+* 跑所有測試資料(抓更多測試資料) 看錯在哪
+* 整理資料夾結構
+* 整理好以前的所有有用資料/看以前的code/看email
+
+* optimization/看code中是不是有可節省時間的
+* parallelization
+
