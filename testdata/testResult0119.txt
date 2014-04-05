@@ -1,0 +1,300 @@
+output0535-1-01.txt
+error: WIN
+error:  (8,7)
+error: 0.0110 seconds
+
+output0535-1-02.txt
+error: WIN
+error:  (5,10)
+error: 0.0140 seconds
+
+output0535-1-03.txt
+error: WIN
+error:  (10,9)
+error: 0.0140 seconds
+
+output0535-1-04.txt
+error: WIN
+error:  (8,10)
+error: 0.0140 seconds
+
+output0535-1-05.txt
+error: WIN
+error:  (5,6)
+error: 0.0060 seconds
+
+output0535-1-06.txt
+error: WIN
+error:  (6,5)
+error: 0.0060 seconds
+
+output0535-1-07.txt
+error: WIN
+error:  (5,4)
+error: 0.0520 seconds
+
+output0535-1-08.txt
+error: WIN
+error:  (10,6)
+error: 0.0110 seconds
+
+output0535-1-09.txt
+error: WIN
+error:  (10,7)
+error: 0.5250 seconds
+
+output0535-1-10.txt
+error: WIN
+error:  (6,6)
+error: 0.0150 seconds
+
+output0535-2-01.txt
+error: WIN
+error:  (9,6)
+error: 0.0190 seconds
+
+output0535-2-02.txt
+error: WIN
+error:  (8,8)
+error: 0.0360 seconds
+
+output0535-2-03.txt
+error: WIN
+error:  (10,5)
+error: 0.0300 seconds
+
+output0535-2-04.txt
+error: WIN
+error:  (7,4)
+error: 0.0160 seconds
+
+output0535-2-05.txt
+error: WIN
+error:  (4,6)
+error: 0.3670 seconds
+
+output0535-2-06.txt
+error: WIN
+error:  (7,5)
+error: 0.0090 seconds
+
+output0535-2-07.txt
+error: WIN
+error:  (9,8)
+error: 0.0720 seconds
+
+output0535-2-08.txt
+error: WIN
+error:  (6,12)
+error: 0.0250 seconds
+
+output0535-2-09.txt
+error: WIN
+error:  (5,6)
+error: 0.0600 seconds
+
+output0535-2-10.txt
+error: WIN
+error:  (6,8)
+error: 1.2050 seconds
+
+output0535-3-01.txt
+error: WIN
+error:  (6,9)
+error: 0.0040 seconds
+
+output0535-3-02.txt
+error: WIN
+error:  (6,4)
+error: 0.0050 seconds
+
+output0535-3-03.txt
+error: WIN
+error:  (3,5)
+error: 0.0050 seconds
+
+output0535-3-04.txt
+error: WIN
+error:  (8,8)
+error: 0.0050 seconds
+
+output0535-3-05.txt
+error: WIN
+error:  (6,5)
+error: 0.0060 seconds
+
+output0535-3-06.txt
+error: WIN
+error:  (7,6)
+error: 0.0050 seconds
+
+output0535-3-07.txt
+error: WIN
+error:  (6,6)
+error: 0.3260 seconds
+
+output0535-3-08.txt
+error: WIN
+error:  (6,6)
+error: 0.0060 seconds
+
+output0535-3-09.txt
+error: WIN
+error:  (11,7)
+error: 0.1430 seconds
+
+output0535-3-10.txt
+error: WIN
+error:  (7,9)
+error: 0.0060 seconds
+
+output0535-4-01.txt
+error: WIN
+error:  (10,9)
+error: 0.0130 seconds
+
+output0535-4-02.txt
+error: WIN
+error:  (6,9)
+error: 0.0140 seconds
+
+output0535-4-03.txt
+error: WIN
+error:  (5,7)
+error: 0.0060 seconds
+
+output0535-4-04.txt
+error: WIN
+error:  (6,9)
+error: 0.0180 seconds
+
+output0535-4-05.txt
+error: WIN
+error:  (9,9)
+error: 0.0220 seconds
+
+output0535-4-06.txt
+error: WIN
+error:  (4,9)
+error: 0.0070 seconds
+
+output0535-4-07.txt
+error: WIN
+error:  (11,7)
+error: 117.8680 seconds
+
+output0535-4-08.txt
+error: WIN
+error:  (9,7)
+error: 0.0220 seconds
+
+output0535-4-09.txt
+error: WIN
+error:  (3,9)
+error: 0.0160 seconds
+
+output0535-4-10.txt
+error: WIN
+error:  (6,6)
+error: 0.0050 seconds
+
+output0535-5-01.txt
+error: WIN
+error:  (8,5)
+error: 0.0040 seconds
+
+output0535-5-02.txt
+error: WIN
+error:  (6,9)
+error: 0.0050 seconds
+
+output0535-5-03.txt
+error: WIN
+error:  (8,8)
+error: 0.0040 seconds
+
+output0535-5-04.txt
+error: WIN
+error:  (6,8)
+error: 0.0040 seconds
+
+output0535-5-05.txt
+error: WIN
+error:  (8,5)
+error: 0.0040 seconds
+
+output0535-5-06.txt
+error: WIN
+error:  (8,8)
+error: 0.0050 seconds
+
+output0535-5-07.txt
+error: WIN
+error:  (7,6)
+error: 0.0040 seconds
+
+output0535-5-08.txt
+error: WIN
+error:  (8,6)
+error: 0.0040 seconds
+
+output0535-5-09.txt
+error: WIN
+error:  (6,5)
+error: 0.0050 seconds
+
+output0535-5-10.txt
+error: WIN
+error:  (6,8)
+error: 0.0050 seconds
+
+output0535-6-01.txt
+error: WIN
+error:  (5,8)
+error: 0.0370 seconds
+
+output0535-6-02.txt
+error: WIN
+error:  (8,10)
+error: 0.0070 seconds
+
+output0535-6-03.txt
+error: WIN
+error:  (5,5)
+error: 0.0050 seconds
+
+output0535-6-04.txt
+error: WIN
+error:  (9,10)
+error: 0.7190 seconds
+
+output0535-6-05.txt
+error: WIN
+error:  (6,5)
+error: 0.0050 seconds
+
+output0535-6-06.txt
+error: WIN
+error:  (8,9)
+error: 0.0050 seconds
+
+output0535-6-07.txt
+error: WIN
+error:  (9,8)
+error: 0.0050 seconds
+
+output0535-6-08.txt
+error: WIN
+error:  (10,8)
+error: 0.0150 seconds
+
+output0535-6-09.txt
+error: WIN
+error:  (10,4)
+error: 0.0070 seconds
+
+output0535-6-10.txt
+^C要終止批次工作嗎 (Y/N)? Y
+make: *** [all] Error 255
+
+G:\change_Jennya>

@@ -1,0 +1,218 @@
+  0 1 2 3 4 5 6 7 8 9 A B C D E 
+0                               
+1                               
+2                               
+3                               
+4                               
+5             2 2   2           
+6     2           1 1           
+7       1 2 1     2             
+8         1 1 1 2 2 1 1         
+9           1 2 2   1 2         
+A           2                   
+B         1                     
+C                               
+D                               
+E                               
+[[ turn: 1 - BLACK ]]
+
+
+######################################
+  0 1 2 3 4 5 6 7 8 9 A B C D E 
+0                               
+1                               
+2                               
+3                               
+4                               
+5             2 2   2           
+6     2           1 1           
+7       1 2 1     2             
+8         1 1 1 2 2 1 1         
+9           1 2 2   1 2         
+A           2                   
+B         1                     
+C                               
+D                               
+E                               
+1
+---------↑tsSearch----------
+Four	65	55,
+ BrkF	66	67,
+  Four	93	A2,
+  BrkF	A2	93,
+ BrkF	67	66,
+  Four	6A	6B,
+  BrkF	6B	6A,
+  StrT	76	58,94,
+  BrkT	58	76,94,49,
+  BrkT	94	76,A3,58,
+Four	77	A4,
+Four	79	A9,
+ Four	9B	AC,
+ BrkF	AC	9B,
+Four	83	82,
+ StrT	63	53,93,
+ StrT	93	63,A3,
+  StrF	A2		<= WIN
+===verify:(my-1,8,3) 0(opn-2,8,2) [ 0(my-1,5,5) 0(opn-2,6,5) [ (my-1,9,3) 
+..............↓pnSearch(2,1)...............
+  0 1 2 3 4 5 6 7 8 9 A B C D E 
+0                               
+1                               
+2                               
+3                               
+4                               
+5           1 2 2   2           
+6     2     2     1 1           
+7       1 2 1     2             
+8     2 1 1 1 1 2 2 1 1         
+9       1   1 2 2   1 2         
+A           2                   
+B         1                     
+C                               
+D                               
+E                               
+turn = 2, pnSearchResult = LOSE 
+
+..............↑pnSearch...............
+NOWIN ]NOWIN ]===verify: NOWIN ===
+  Four	66	A2,
+  BrkF	B1	A2,
+ BrkT	53	63,93,43,
+  Four	64	42,
+  BrkF	42	64,
+ BrkT	A3	93,B3,63,
+  StrT	92	81,C5,
+  StrT	C5	92,D6,
+  StrT	94	76,B2,
+  BrkT	81	92,C5,70,
+  BrkT	D6	C5,E7,92,
+  BrkT	76	94,B2,67,
+  BrkT	B2	94,C1,76,
+Four	A6	B7,
+BrkF	55	65,
+ StrT	64	46,82,
+  Four	53	42,
+  BrkF	42	53,
+ BrkT	46	64,82,37,
+ BrkT	82	64,91,46,
+  Five	83		<= WIN
+===verify:(my-1,5,5) 0(opn-2,6,5) [ (my-1,8,2) 
+..............↓pnSearch(2,1)...............
+  0 1 2 3 4 5 6 7 8 9 A B C D E 
+0                               
+1                               
+2                               
+3                               
+4                               
+5           1 2 2   2           
+6     2     2     1 1           
+7       1 2 1     2             
+8     1   1 1 1 2 2 1 1         
+9           1 2 2   1 2         
+A           2                   
+B         1                     
+C                               
+D                               
+E                               
+turn = 2, pnSearchResult = LOSE 
+
+..............↑pnSearch...............
+NOWIN ]===verify: NOWIN ===
+  BrkF	81	83,
+BrkF	82	83,
+ StrT	64	55,91,
+  Four	53	42,
+  BrkF	42	53,
+ StrT	91	64,A0,55,
+ BrkT	55	64,91,46,
+  Five	65		<= WIN
+===verify:(my-1,8,2) 0(opn-2,8,3) [ (my-1,5,5) 
+..............↓pnSearch(2,1)...............
+  0 1 2 3 4 5 6 7 8 9 A B C D E 
+0                               
+1                               
+2                               
+3                               
+4                               
+5           1 2 2   2           
+6     2           1 1           
+7       1 2 1     2             
+8     1 2 1 1 1 2 2 1 1         
+9           1 2 2   1 2         
+A           2                   
+B         1                     
+C                               
+D                               
+E                               
+turn = 2, pnSearchResult = LOSE 
+
+..............↑pnSearch...............
+NOWIN ]===verify: NOWIN ===
+  BrkF	45	65,
+BrkF	A4	77,
+ Four	94	C4,
+  StrT	76	67,A3,
+  StrT	A3	76,B2,
+  BrkT	67	76,A3,58,
+  BrkT	B2	A3,C1,76,
+ Four	B3	C2,
+  StrT	B2	B1,B5,
+  StrT	B5	B2,B6,
+  BrkT	B1	B2,B5,B0,
+  BrkT	B6	B5,B7,B2,
+ BrkF	C4	94,
+  Four	D4	E4,
+  BrkF	E4	D4,
+ BrkF	C2	B3,
+ BrkT	D4	C4,E4,94,
+BrkF	A9	79,
+ Four	B9	C9,
+ BrkF	C9	B9,
+BrkF	B7	A6,
+ StrF	A8		<= WIN
+===verify:(my-1,11,7) 
+..............↓pnSearch(2,1)...............
+  0 1 2 3 4 5 6 7 8 9 A B C D E 
+0                               
+1                               
+2                               
+3                               
+4                               
+5             2 2   2           
+6     2           1 1           
+7       1 2 1     2             
+8         1 1 1 2 2 1 1         
+9           1 2 2   1 2         
+A           2                   
+B         1     1               
+C                               
+D                               
+E                               
+turn = 2, pnSearchResult = WIN 
+-1,-1 (12,6 (<< >>)10,8 (<< >>)10,6 (<< >>)7,11 (<< >>))
+..............↑pnSearch...............
+===verify: WIN ===
+  0 1 2 3 4 5 6 7 8 9 A B C D E 
+0                               
+1                               
+2                               
+3                               
+4                               
+5             2 2   2           
+6     2           1 1           
+7       1 2 1     2             
+8         1 1 1 2 2 1 1         
+9           1 2 2   1 2         
+A           2                   
+B         1                     
+C                               
+D                               
+E                               
+turn = 1, pnSearchResult = WIN 
+-1,-1 (<< 11,7 >>)
+######################################
+
+#################
+WIN
+#################

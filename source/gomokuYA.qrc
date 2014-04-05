@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/horCoordinate.png</file>
+        <file>img/verCoordinate.png</file>
+        <file>img/horCoordinate(big).png</file>
+        <file>img/empty.bmp</file>
+        <file>img/board.bmp</file>
+        <file>img/black.bmp</file>
+        <file>img/white.bmp</file>
+    </qresource>
+</RCC>
